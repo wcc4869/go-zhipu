@@ -1,2 +1,4 @@
 github.com/golang-jwt/jwt v3.2.2+incompatible h1:IfV12K8xAKAnZqdXVzCZ+TOjboZ2keLg81eXfW3O+oY=
 github.com/golang-jwt/jwt v3.2.2+incompatible/go.mod h1:8pz2t5EyA70fFQQSrl6XZXzqecmYZeUEB8OUGHkxJ+I=
+github.com/itcwc/go-zhipu v0.0.0-20240626065325-ffc8bf1cfaaa h1:iOly0dSYv9AdoWfWt3uk4IF4O/nW+fyXV9rnC87UC7s=
+github.com/itcwc/go-zhipu v0.0.0-20240626065325-ffc8bf1cfaaa/go.mod h1:z7QZm7ol2nikFFGHwArJr1NTtBSE0M0g9MvHKxm1Sw0=
