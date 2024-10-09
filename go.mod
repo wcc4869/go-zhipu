@@ -1,4 +1,4 @@
-module github.com/itcwc/go-zhipu
+module github.com/wcc4869/go-zhipu
 
 go 1.21.1
 
